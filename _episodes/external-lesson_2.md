@@ -1,7 +1,7 @@
 ---
 title: Data Sharing Checklist
 teaching: null
-exercises: 35
+exercises: 45
 duration: null
 summary: Presenting the key points from the DCC's data sharing checklist.
 questions:
